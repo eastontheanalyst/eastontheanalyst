@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eastontheanalyst
-- 👀 I’m interested in data analytic and programming.
+- 👀 I’m interested in data analytics and programming.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on data analytics or programming projects.
 - 📫 How to reach me eastontheanalyst@gmail.com
