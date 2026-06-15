@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on data analytics or programming projects.
 - 📫 How to reach me eastontheanalyst@gmail.com
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I hate fun facts.
 
 <!---
